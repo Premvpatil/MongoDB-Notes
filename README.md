@@ -1,2 +1,2 @@
-# codealpha_tasks1
-<h1>Python Inetrnship Task</h1>
+# MongoDB Notes Repo
+<h1>Self Practice nots</h1>
